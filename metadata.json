@@ -1,0 +1,6 @@
+{
+  "name": "Motarchats",
+  "description": "A real-time luxury WhatsApp clone with secure authentication, direct and group messaging, file uploads, companion AI agent, presence tracking, and typing indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

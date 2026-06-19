@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": "ai-bot",
+      "name": "Motarchats AI",
+      "email": "ai@motarchats.com",
+      "passwordHash": "8846a591b10434c26095d2249df99c56f0fb7cb7ac7b88f032be8443c7b819ba",
+      "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=150&auto=format&fit=crop&q=60",
+      "online": true,
+      "lastSeen": "2026-06-18T09:07:25.284Z"
+    },
+    {
+      "id": "user-sophia",
+      "name": "Sophia Gold (Product Design)",
+      "email": "sophia@example.com",
+      "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=60",
+      "online": false,
+      "lastSeen": "2026-06-18T09:02:25.285Z"
+    },
+    {
+      "id": "user-marcus",
+      "name": "Marcus Teal (Technical Lead)",
+      "email": "marcus@example.com",
+      "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=60",
+      "online": false,
+      "lastSeen": "2026-06-18T07:07:25.285Z"
+    },
+    {
+      "id": "user-yara",
+      "name": "Yara Smith (QA Lead)",
+      "email": "yara@example.com",
+      "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=60",
+      "online": true,
+      "lastSeen": "2026-06-18T09:07:25.285Z"
+    },
+    {
+      "id": "2ff322fc-9a58-47ef-b7e2-3d7de976de29",
+      "name": "MOTAR KADAI",
+      "email": "3750bharani@gmail.com",
+      "passwordHash": "749db49139e58a558646c6e70c3ff09f61c3596c919a2c676f37ca4e4aed0e65",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=MOTAR%20KADAI",
+      "online": false,
+      "lastSeen": "2026-06-18T09:11:04.065Z"
+    }
+  ],
+  "chats": [
+    {
+      "id": "eef85116-d879-4a5a-ac75-3400c7f9bd21",
+      "isGroup": false,
+      "members": [
+        "2ff322fc-9a58-47ef-b7e2-3d7de976de29",
+        "user-sophia"
+      ],
+      "admins": [
+        "2ff322fc-9a58-47ef-b7e2-3d7de976de29"
+      ],
+      "updatedAt": "2026-06-18T09:10:46.338Z",
+      "lastMessageId": "24da00dc-b057-4d50-8a70-332f2b2859f1"
+    }
+  ],
+  "messages": [
+    {
+      "id": "c64f0269-1da7-4666-8717-13655526d80c",
+      "chatId": "eef85116-d879-4a5a-ac75-3400c7f9bd21",
+      "senderId": "2ff322fc-9a58-47ef-b7e2-3d7de976de29",
+      "content": "hi",
+      "type": "text",
+      "createdAt": "2026-06-18T09:10:34.763Z",
+      "seenBy": [
+        "2ff322fc-9a58-47ef-b7e2-3d7de976de29"
+      ]
+    },
+    {
+      "id": "24da00dc-b057-4d50-8a70-332f2b2859f1",
+      "chatId": "eef85116-d879-4a5a-ac75-3400c7f9bd21",
+      "senderId": "2ff322fc-9a58-47ef-b7e2-3d7de976de29",
+      "content": "how are you",
+      "type": "text",
+      "createdAt": "2026-06-18T09:10:46.338Z",
+      "seenBy": [
+        "2ff322fc-9a58-47ef-b7e2-3d7de976de29"
+      ]
+    }
+  ]
+}
